@@ -59,7 +59,7 @@ Build a system that can:
 ## 🚀 **How to Run the Project**
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/youtube-qa-system.git  
+   git clone https://github.com/athiyataj9-archyoutube-qa-system.git  
    cd youtube-qa-system  
 
 2. **Create a virtual environment**  
